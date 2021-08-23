@@ -3,8 +3,9 @@
   "version": "1.0.69",
   "description": "website practice",
   "main": "index.js",
-  "scripts": {
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^16.6.1"
   }
-
-
 }
